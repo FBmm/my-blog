@@ -1,11 +1,10 @@
 {
-  "name": "my_blog",
+  "name": "my-blog",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "wuqian",
   "scripts": {
     "dev": "vuepress dev . --host \"localhost\"",
-    "build": "vuepress build .",
-    "deploy": "bash deploy.sh"
+    "build": "vuepress build ."
   },
   "devDependencies": {
     "vuepress": "1.5.4",
