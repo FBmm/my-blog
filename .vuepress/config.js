@@ -1,8 +1,7 @@
 const sidebar = require("./siderbar.js");
 module.exports = {
-  title: "FBm的博客",
-  description: "FBm的博客",
-  dest: "public",
+  title: "熊猫的胸毛叫熊毛",
+  dest: "html",
   base: "/",
   head: [
     [
@@ -29,8 +28,8 @@ module.exports = {
     mode: "light",
     subSidebar: "auto",
     valineConfig: {
-      appId: "h6i7vXvVEK37fFFwb1DtMJ6W-gzGzoHsz",
-      appKey: "cYI3hypnGAI00CPuzhNfeY8Q",
+      appId: "3SwyMpr58ul4tFlTcSWVUCF1-gzGzoHsz",
+      appKey: "HawyXTEslOECnAYBcQIQhSG1",
     },
     nav: [
       {
@@ -77,13 +76,13 @@ module.exports = {
         text: "标签索引",
       },
     },
-    logo: "/logo.png",
+    logo: "/avatar.png",
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: "Last Updated",
     author: "wuqian",
     authorAvatar: "/avatar.png",
-    record: "xxxx",
+    record: "",
     startYear: "2022.3.16",
   },
   markdown: {

@@ -9,8 +9,8 @@ module.exports = {
     createSideBarConfig('前端工程化', WEB_ENGINEERING_PATH),
   ],
   [NETWORK_PATH]: [
-    createSideBarConfig('计算机网络', NETWORK_PATH),
-    createSideBarConfig('TCP/IP', NETWORK_PATH + '/TCP-IP'),
+    createSideBarConfig('计算机网络', NETWORK_PATH + '/main'),
+    createSideBarConfig('TCP/IP', NETWORK_PATH + '/tcp-ip'),
   ],
   [DESIGN_PATTERN_PATH]: [
     createSideBarConfig('设计模式', DESIGN_PATTERN_PATH),

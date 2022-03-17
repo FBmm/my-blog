@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: FBm的博客
+heroText: 熊猫的胸毛叫熊毛的博客
 tagline: 痛苦并快乐的学习之路
 # heroImageStyle: {
 #   maxWidth: '600px',
