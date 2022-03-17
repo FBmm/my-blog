@@ -83,7 +83,7 @@ module.exports = {
     author: "wuqian",
     authorAvatar: "/avatar.png",
     record: "",
-    startYear: "2022.3.16",
+    startYear: "2022",
   },
   markdown: {
     lineNumbers: true,
